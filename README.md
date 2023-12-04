@@ -1,7 +1,6 @@
 ### Hi there 👋
 - my name is noor haider
 - junior web dev using vue js  
-- backend developer using fastapi (python)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
